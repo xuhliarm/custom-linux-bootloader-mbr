@@ -1,0 +1,7 @@
+build/
+*.o
+*.bin
+*.img
+vmlinuz*
+initramfs*
+*.log
